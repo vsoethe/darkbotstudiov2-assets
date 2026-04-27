@@ -1,3 +1,22 @@
+# Darkbot Studio v2 - Media Automation Suite
+
+This repository contains documentation and visual assets for the **Darkbot Studio v2**, a high-performance video production engine.
+
+## 🚀 Concept
+Darkbot Studio is a proprietary automation tool designed to scale faceless YouTube channels. It integrates neural voice synthesis with advanced video rendering to produce high-quality content at scale.
+
+## 🛠 Tech Highlights
+* **Automated Video Engine:** FFmpeg-based rendering with GPU acceleration.
+* **Neural Audio:** Seamless integration with Google Cloud TTS (Neural2/Studio).
+* **Smart Workflow:** Automated asset synchronization and SRT generation.
+* **Architecture:** Optimized Native PHP for industrial-scale media production.
+
+---
+## 📩 Contact & Business Inquiries
+Interested in automation solutions or channel partnerships?
+* **Email:** [vianeiss [at] gmail . com]
+
+
 ### 1. Rendering Progress & UI Dashboard
 ![Rendering Interface](https://raw.githubusercontent.com/vsoethe/darkbotstudiov2-assets/main/01_%20Renderizando.png)
 
